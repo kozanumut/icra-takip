@@ -1,0 +1,12 @@
+html, body, #root {
+  margin: 0;
+  padding: 0;
+  background: #0a1424;
+  min-height: 100vh;
+  overscroll-behavior: none;
+}
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
